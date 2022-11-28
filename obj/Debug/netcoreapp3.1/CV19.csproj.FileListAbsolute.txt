@@ -5,11 +5,9 @@ D:\JS\source\repos\CV19\CV19\bin\Debug\netcoreapp3.1\CV19.runtimeconfig.dev.json
 D:\JS\source\repos\CV19\CV19\bin\Debug\netcoreapp3.1\CV19.dll
 D:\JS\source\repos\CV19\CV19\bin\Debug\netcoreapp3.1\CV19.pdb
 D:\JS\source\repos\CV19\CV19\obj\Debug\netcoreapp3.1\CV19.csproj.AssemblyReference.cache
-D:\JS\source\repos\CV19\CV19\obj\Debug\netcoreapp3.1\MainWindow.g.cs
 D:\JS\source\repos\CV19\CV19\obj\Debug\netcoreapp3.1\App.g.cs
 D:\JS\source\repos\CV19\CV19\obj\Debug\netcoreapp3.1\CV19_MarkupCompile.cache
 D:\JS\source\repos\CV19\CV19\obj\Debug\netcoreapp3.1\CV19_MarkupCompile.lref
-D:\JS\source\repos\CV19\CV19\obj\Debug\netcoreapp3.1\MainWindow.baml
 D:\JS\source\repos\CV19\CV19\obj\Debug\netcoreapp3.1\CV19.g.resources
 D:\JS\source\repos\CV19\CV19\obj\Debug\netcoreapp3.1\CV19.GeneratedMSBuildEditorConfig.editorconfig
 D:\JS\source\repos\CV19\CV19\obj\Debug\netcoreapp3.1\CV19.AssemblyInfoInputs.cache
@@ -18,3 +16,5 @@ D:\JS\source\repos\CV19\CV19\obj\Debug\netcoreapp3.1\CV19.csproj.CoreCompileInpu
 D:\JS\source\repos\CV19\CV19\obj\Debug\netcoreapp3.1\CV19.dll
 D:\JS\source\repos\CV19\CV19\obj\Debug\netcoreapp3.1\CV19.pdb
 D:\JS\source\repos\CV19\CV19\obj\Debug\netcoreapp3.1\CV19.genruntimeconfig.cache
+D:\JS\source\repos\CV19\CV19\obj\Debug\netcoreapp3.1\Views\Windows\MainWindow.g.cs
+D:\JS\source\repos\CV19\CV19\obj\Debug\netcoreapp3.1\Views\Windows\MainWindow.baml
