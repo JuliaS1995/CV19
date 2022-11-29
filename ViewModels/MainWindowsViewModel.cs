@@ -4,7 +4,7 @@ using System.Text;
 
 namespace CV19.ViewModels
 {
-    internal class MainWindowsViewModel
+    class MainWindowsViewModel
     {
     }
 }
